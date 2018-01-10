@@ -23,11 +23,14 @@ object MainClass extends App {
   //Question 3
   print("\n\nOutput for Area Calculation \n")
   val areaOfRectangle = new CalculateArea
+  val areaOfRhombus = new CalculateArea
+  val areaOfParallelogram = new CalculateArea
+
   val first = 3
   val second = 10
   print(areaOfRectangle.calculate("rectangle", first, second, (one, two ) => (one * two)))
-  print(areaOfRectangle.calculate("\nRhombus", first, second, (one, two ) => (one * two)))
-  print(areaOfRectangle.calculate("\nParallelogram", first, second, (one, two ) => (one * two)))
+  print(s"\n${areaOfRhombus.calculate("Rhombus", first, second, (one, two ) => (one * two)/2)}")
+  print(s"\n${areaOfParallelogram.calculate("Parallelogram", first, second, (one, two ) => (one * two))}")
 
   //Question 4
   print("\n\nOutput for Double list elements \n")
