@@ -26,7 +26,8 @@ object MainClass extends App {
   val first = 3
   val second = 10
   print(areaOfRectangle.calculate("rectangle", first, second, (one, two ) => (one * two)))
-
+  print(areaOfRectangle.calculate("\nRhombus", first, second, (one, two ) => (one * two)))
+  print(areaOfRectangle.calculate("\nParallelogram", first, second, (one, two ) => (one * two)))
 
   //Question 4
   print("\n\nOutput for Double list elements \n")
@@ -41,6 +42,7 @@ object MainClass extends App {
   val n = 2
   val nth = new KthElement
   val elementAtN = nth.nthElement(n, findNth)
+  print(s"Input: $findNth \n")
   print(s"value at $n = $elementAtN ")
 
   //Question 6
