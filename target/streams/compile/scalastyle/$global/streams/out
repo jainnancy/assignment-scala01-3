@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/assignment-scala01-03/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/SumLists.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/SumLists.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/ReverseList.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/ReverseList.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/Fibonacci.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/Fibonacci.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/KthElement.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/KthElement.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/NumberOfElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/NumberOfElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/DoubleElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/DoubleElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/MainClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/MainClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/CalculateArea.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala01-03/src/main/scala/Assignment_03/CalculateArea.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 8 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 9 ms[0m
