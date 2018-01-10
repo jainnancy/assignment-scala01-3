@@ -2,15 +2,24 @@ package Assignment_03
 
 object MainClass extends App {
 
+/*
 //Question 1
   val sum = new SumLists
   val list1 = List(1,2,3,4)
   val list2 = List(10,20,30,40)
-  val resultList = sum.sumOfLists(list1, list2, 0, List())
-  print(resultList)
-  print("\n")
+  if((list1.isEmpty == false && list1.isEmpty == false) && (list1.size == list2.size)) {
+    val resultList = sum.sumOfLists(list1, list2)
+    print(resultList)
+    print("\n")
+  }
+  else
+    {
+      print("Lists cannot be added \n")
+    }
+    */
   val zero = 0
   val one = 1
+
 
 //Question 2
   print("\n\nOutput for Fibonacci series \n")
@@ -28,9 +37,13 @@ object MainClass extends App {
 
   val first = 3
   val second = 10
-  print(areaOfRectangle.calculate("rectangle", first, second, (one, two ) => (one * two)))
-  print(s"\n${areaOfRhombus.calculate("Rhombus", first, second, (one, two ) => (one * two)/2)}")
-  print(s"\n${areaOfParallelogram.calculate("Parallelogram", first, second, (one, two ) => (one * two))}")
+  val str1 = "Rectangle"
+  val str2 = "Rhombus"
+  val str3 = "Parallelogram"
+
+  print(areaOfRectangle.calculate(str1, first, second, (one, two ) => (one * two)))
+  print(s"\n${areaOfRhombus.calculate(str2, first, second, (one, two ) => (one * two)/2)}")
+  print(s"\n${areaOfParallelogram.calculate(str3, first, second, (one, two ) => (one * two))}")
 
   //Question 4
   print("\n\nOutput for Double list elements \n")
